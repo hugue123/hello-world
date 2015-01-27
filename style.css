@@ -8,10 +8,26 @@ nav a{
     text-decoration: none;
     color:#f5f5f5;
     background-color:#9E9E9E;
-    
-    
+    border-radius: 2px;
+    margin: 5px;
+    padding: 5px;
+    dispaly: inline-block;
+    transition: 1s all;
 }
 
+
+   nav a:hover{
+     background-color: #727272;
+   }
+   
+   header {
+     text=align: center;
+   }
+   
+    header{
+      text-align: center;
+    }
+    
 h2{
  color:#000000;
 }
